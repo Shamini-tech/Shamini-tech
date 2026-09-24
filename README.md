@@ -32,13 +32,15 @@ B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru Coll
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -48,6 +50,7 @@ B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru Coll
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
+| **GIE Rubric Dashboard** | Full-stack assessment analytics dashboard that parses multi-cohort data and renders dynamic skill performance trackers. | FastAPI, Pandas, JS, Chart.js | [View Repo](https://github.com/Shamini-tech/gie-dashboard) |
 | **Project Drone** | Semi-autonomous drone management software for harbour operations with live tracking and AI obstacle detection. | React.js, Context API | [View Repo](https://github.com/Shamini-tech/Project_drone) |
 | **Tongues Translation** | Real-time translation web app with voice dictation, speech synthesis, and two-tier API failover. | React, Node.js, Web Speech API | [View Repo](https://github.com/Shamini-tech/tonges-fullstack) |
 | **Crop & Disease Detection** | AI mobile app combining crop recommendation with deep learning plant disease identification. | Python, ML, Computer Vision | [View Repo](https://github.com/Shamini-tech/crop-recomendation-and-disease-detection) |
