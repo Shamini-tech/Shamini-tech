@@ -21,9 +21,9 @@
 ---
 
 ### 👤 About Me
-B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru College of Technology*. Passionate about constructing full-stack web applications, machine learning tools, and scalable software solutions.
+B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru College of Technology*. Passionate about constructing full-stack web applications, data analytics tools, and machine learning solutions.
 
-- 🛠️ **Current Focus:** Full-Stack Web Development, Deep Learning & Computer Vision
+- 🛠️ **Current Focus:** Full-Stack Web Development, Data Analytics, FastAPI & Deep Learning
 - ⚡ **Fun Fact:** Turning complex real-world operational challenges into simple, elegant code
 
 ---
@@ -50,7 +50,7 @@ B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru Coll
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **GIE Rubric Dashboard** | Full-stack assessment analytics dashboard that parses multi-cohort data and renders dynamic skill performance trackers. | FastAPI, Pandas, JS, Chart.js | [View Repo](https://github.com/Shamini-tech/gie-dashboard) |
+| **GIE Rubric Dashboard** | Full-stack rubric assessment analytics dashboard that ingests multi-cohort data and serves dynamic skill performance visualizations. | FastAPI, Pandas, JS, Chart.js | [View Repo](https://github.com/Shamini-tech/gie-dashboard) |
 | **Project Drone** | Semi-autonomous drone management software for harbour operations with live tracking and AI obstacle detection. | React.js, Context API | [View Repo](https://github.com/Shamini-tech/Project_drone) |
 | **Tongues Translation** | Real-time translation web app with voice dictation, speech synthesis, and two-tier API failover. | React, Node.js, Web Speech API | [View Repo](https://github.com/Shamini-tech/tonges-fullstack) |
 | **Crop & Disease Detection** | AI mobile app combining crop recommendation with deep learning plant disease identification. | Python, ML, Computer Vision | [View Repo](https://github.com/Shamini-tech/crop-recomendation-and-disease-detection) |
@@ -58,9 +58,18 @@ B.Tech student in **Artificial Intelligence & Data Science** at *Kumaraguru Coll
 
 ---
 
-### 💼 Internships & Experience
-- **Yuva Interns:** Completed 4 practical software engineering tasks.
-- **Future Interns:** Completed 3 domain-focused development tasks.
+### 💼 Internships & Work Experience
+
+#### 🔹 **Innovation Engineer Intern — Forge Innovation & Ventures**
+- Engineered an end-to-end evaluation dashboard (**GIE Rubric Management System**) using **FastAPI** and **Pandas** to transform and visualize multi-cohort rubric assessment metrics.
+- Developed REST endpoints (`/students`, `/skills`, `/assessment_table`, `/skill_summary`) with integrated CORS middleware and mounted static frontend routing.
+- Built interactive frontend visualization dashboards using **Chart.js** to evaluate skill progress across cohorts.
+
+#### 🔹 **Yuva Interns**
+- Completed 4 practical software engineering and full-stack development tasks.
+
+#### 🔹 **Future Interns**
+- Completed 3 domain-focused data engineering tasks.
 
 ---
 
